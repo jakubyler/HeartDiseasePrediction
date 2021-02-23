@@ -1,5 +1,7 @@
 # HeartDiseaseClassification
 
+In this project we predict the heart disease.
+
 # Libraries: 
 numpy, pandas, matplotlib, seaborn, sklearn, xgboost, tensorflow, random
 
